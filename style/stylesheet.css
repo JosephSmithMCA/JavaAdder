@@ -1,0 +1,19 @@
+﻿.inputs{
+    display:flex;
+    flex-direction:row;
+    justify-content:center
+}
+
+input{
+    margin:20px 20px 20px 20px;
+}
+
+.outvalue{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+
+button {
+    margin: 20px 20px 20px 20px;
+}
